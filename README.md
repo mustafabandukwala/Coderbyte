@@ -9,3 +9,5 @@ List of all the problems solved on Coderbyte
 - Letter Capitalize - Path(Coderbyte/Challenges/Easy/Letter Capitalize)
 - Simple Symbols - Path(Coderbyte/Challenges/Easy/Simple Symbols)
 - Check Nums - Path(Coderbyte/Challenges/Easy/Check Nums)
+- Time Convert - Path(Coderbyte/Challenges/Easy/Time Convert)
+- Alphabet Soup - Path(Coderbyte/Challenges/Easy/Alphabet Soup)
