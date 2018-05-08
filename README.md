@@ -11,3 +11,5 @@ List of all the problems solved on Coderbyte
 - Check Nums - Path(Coderbyte/Challenges/Easy/Check Nums)
 - Time Convert - Path(Coderbyte/Challenges/Easy/Time Convert)
 - Alphabet Soup - Path(Coderbyte/Challenges/Easy/Alphabet Soup)
+- Kaprekars Constant - Path(Coderbyte/Challenges/Hard/Kaprekars Constant)
+- Pentagonal Number - Path(Coderbyte/Challenges/Hard/Pentagonal Number)
